@@ -1,0 +1,5 @@
+# Google AdMob
+google.com, pub-5620892044494479, DIRECT, f08c47fec0942fa0
+
+# Fluct Open Bidding (Adingo)
+adingo.jp, 33637, RESELLER
